@@ -1,0 +1,26 @@
+/* style css */
+
+.Odd
+{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#Number-Two
+{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.Number-Three
+{
+    font-size: 24px;
+}
+
+
+#Number-Four
+{
+    background-color: #008000;
+    font-size: 24px;
+    font-weight: bold;
+}
