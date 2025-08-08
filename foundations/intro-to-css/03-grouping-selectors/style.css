@@ -1,0 +1,19 @@
+/* style css */
+
+.Main,
+.Backup
+{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.Main
+{
+    background-color: black;
+    color: white;
+}
+
+.Backup
+{
+    background-color: yellow;
+}
